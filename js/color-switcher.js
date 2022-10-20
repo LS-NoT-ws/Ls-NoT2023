@@ -67,7 +67,7 @@ jQuery('head').append('<link rel="stylesheet" id="colors" href="css/colors/prese
 jQuery('head').append('<link rel="stylesheet" href="css/color-switcher.css" type="text/css" />'); 
 
 jQuery('body').append('' + 
-	'<div id="color-style-switcher">' +
+	'<div id="color-style-switcher" hidden>' +
 		'<div>' + 
 			'<h3>Color Palette</h3>' +
 			'<ul class="colors">' +

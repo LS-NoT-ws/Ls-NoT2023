@@ -1647,6 +1647,10 @@ button:focus {
 /* ==========================================================================
   Slider
    ========================================================================== */
+#logo {
+   margin-left: 7%;
+}
+
 #carousel-area {
   overflow: hidden;
   background: #2c3e50;
@@ -1657,7 +1661,7 @@ button:focus {
 }
 
 #carousel-area .carousel-item .carousel-caption {
-  top: 32%;
+  top: 15%;
   right: 10%;
   left: 12%;
   text-shadow: none;

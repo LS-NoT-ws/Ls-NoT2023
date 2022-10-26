@@ -49,6 +49,10 @@ h1, h2, h3, h4, h5 {
   color: #263238;
 }
 
+h3 {
+  font-size: 23px;
+}
+
 ul {
   margin: 0;
   padding: 0;
